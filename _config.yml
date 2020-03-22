@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Médicos do Brasil Online 
+subtitle: Rede de médicos para apoiar grupos de risco no Brasil durante a pandemia do COVID19
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
@@ -7,8 +7,8 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.githu
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About Me
-      url: /about
+    - text: Sobre
+      url: /sobre
     - text: Blog
       url: /blog
     - text: Gallery
